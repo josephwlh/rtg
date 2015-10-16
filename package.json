@@ -1,0 +1,18 @@
+{
+  "name": "rtg",
+  "version": "0.0.1",
+  "description": "Gulp / Harp / BrowserSync / Riot",
+  "private": true,
+  "main": "gulpfile.js",
+  "author": "Joseph Wang",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.5",
+    "gulp-riot": "*",
+    "harp": "^0.13.0",
+    "browser-sync": "^1.3.5"
+  },
+  "dependencies": {
+    "jade": "^1.11.0"
+  }
+}
